@@ -29,9 +29,9 @@ export default function Hero() {
 
         {/* The big wordmark — the signature moment */}
         <motion.h1
-          initial={{ opacity: 0, letterSpacing: "0.5em" }}
-          animate={{ opacity: 1, letterSpacing: "-0.02em" }}
-          transition={{ delay: 0.35, duration: 1.2, ease: [0.4, 0, 0.2, 1] }}
+          initial={{ opacity: 0, y: 30, scale: 0.97 }}
+          animate={{ opacity: 1, y: 0, scale: 1 }}
+          transition={{ delay: 0.35, duration: 1.1, ease: [0.4, 0, 0.2, 1] }}
           className="font-display text-[clamp(6rem,22vw,16rem)] leading-none text-white mb-4 select-none"
         >
           STATIC

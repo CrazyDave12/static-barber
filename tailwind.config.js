@@ -26,7 +26,7 @@ module.exports = {
         },
       },
       animation: {
-        aurora: "aurora 60s linear infinite",
+        aurora: "aurora 80s linear infinite",
       },
       keyframes: {
         aurora: {
