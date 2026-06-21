@@ -54,5 +54,5 @@ npm run dev
 Open http://localhost:3000
 
 ## Links
-- GitHub: (to be set up)
-- Vercel: (to be deployed)
+- GitHub: https://github.com/CrazyDave12/static-barber
+- Vercel: https://static-barber-jo4w6jy0k-david-project1.vercel.app
